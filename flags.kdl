@@ -1,0 +1,58 @@
+rotation-delay-seconds 10
+show-flag-name false
+show-color-names false
+
+// https://www.flagcolorcodes.com/transgender
+flag "transgender" {
+    color "blue" 91 206 250
+    color "pink" 245 169 184
+    color "white" 255 255 255
+    color "pink" 245 169 184
+    color "blue" 91 206 250
+}
+
+// https://www.flagcolorcodes.com/bisexual
+flag "bisexual" {
+    color "pink" 214 2 112
+    color "purple" 155 79 150
+    color "blue" 0 56 168
+}
+
+// https://www.flagcolorcodes.com/genderqueer
+flag "genderqueer" {
+    color "lavender" 181 126 220
+    color "green" 74 129 35
+    color "white" 255 255 255
+}
+
+// https://www.flagcolorcodes.com/pansexual
+flag "pansexual" {
+    color "magenta" 255 33 140
+    color "yellow" 255 216 0
+    color "cyan" 33 177 255
+}
+
+// https://www.flagcolorcodes.com/genderfluid
+flag "genderfluid" {
+    color "pink" 255 118 164
+    color "purple" 192 17 215
+    color "black" 0 0 0
+    color "blue" 47 60 190
+}
+
+// https://www.flagcolorcodes.com/polyamory
+flag "polyamory" {
+    color "blue" 0 0 255
+    color "yellow" 255 255 0
+    color "red" 255 0 0
+    color "black" 0 0 0
+}
+
+// https://www.flagcolorcodes.com/polygender
+flag "polygender" {
+    color "black" 0 0 0
+    color "grey" 147 147 147
+    color "pink" 237 148 197
+    color "yellow" 245 237 129
+    color "blue" 100 187 230
+}
